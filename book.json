@@ -1,1 +1,8 @@
-{}
+{
+    "title": "The Twelve-Factor App",
+    "description": "A methodology for building modern, scalable, maintainable software-as-a-service apps.",
+    "author": "Adam Wiggins",
+    "structure": {
+        "readme": "intro.md"
+    }
+}
