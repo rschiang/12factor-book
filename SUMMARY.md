@@ -13,4 +13,4 @@
 * [IX. Disposability](disposability.md)
 * [X. Dev/prod parity](dev-prod-parity.md)
 * [XI. Logs](logs.md)
-* [XII. Admin processes](admin-processeses.md)
+* [XII. Admin processes](admin-processes.md)
