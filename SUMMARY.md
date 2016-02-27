@@ -1,5 +1,16 @@
-# Summary
+# Table of Contents
 
 * The Twelve-Factor App
-   * Introduction
-
+    * [Introduction](intro.md)
+    * [I. Codebase](codebase.md)
+    * [II. Dependencies](dependencies.md)
+    * [III. Config](config.md)
+    * [IV. Backing Services](backing-services.md)
+    * [V. Build, release, run](build-release-run.md)
+    * [VI. Processes](processes.md)
+    * [VII. Port binding](port-binding.md)
+    * [VIII. Concurrency](concurrency.md)
+    * [IX. Disposability](disposability.md)
+    * [X. Dev/prod parity](dev-prod-parity.md)
+    * [XI. Logs](logs.md)
+    * [XII. Admin processes](admin-processeses.md)
